@@ -1,9 +1,5 @@
 **Windows command-line prompt**
 
-ToC
-[toc]
-
-
 # PROMPT variable
 By default, the windows command-line prompt is defined as `$P$G` in the `PROMPT` variable. This translates to current drive and path with a greater-than sign suffix. 
 
